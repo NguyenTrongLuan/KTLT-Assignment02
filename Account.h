@@ -1,6 +1,3 @@
-//
-// Created by Lanh Huynh on 21/05/2017
-//
 #ifndef ASSIGNMENT2_ACCOUNT_H
 #define ASSIGNMENT2_ACCOUNT_H
 
