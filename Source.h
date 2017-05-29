@@ -8,9 +8,6 @@
 #include "RentBook.h"
 #include "UserManager.h"
 using namespace std;
-void startProg();
-void userLogin();
-void resetProg();
 void userLogin()
 {
 	vector<int> role;
